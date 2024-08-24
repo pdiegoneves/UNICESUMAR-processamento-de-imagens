@@ -8,6 +8,9 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.12"
 opencv-python = "^4.10.0.84"
+matplotlib = "^3.9.2"
+seaborn = "^0.13.2"
+scikit-image = "^0.24.0"
 
 
 [build-system]
